@@ -1,6 +1,6 @@
 #include <stdarg.h>
 #include <stdio.h>
-#inlude "variadic_functions.h"
+#include "variadic_functions.h"
 
 /**
  * print_strings - prints strings, followed by a new line.
